@@ -106,7 +106,7 @@ cosmic-pulse/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/cosmic-pulse.git
+git clone https://github.com/spandana0607/glowing_starts.git
 ```
 
 ### 2. Open the project
